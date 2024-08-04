@@ -1,0 +1,40 @@
+
+.bar{
+    display: flex;
+    justify-content: space-between;
+}
+    
+        .circle{
+        align-self: flex-end;
+
+    }
+span{
+    display: block;
+}
+.button{
+    border: 1px solid black;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    margin-left: 5px;
+    
+}
+.button:hover{
+    cursor: pointer;
+}
+#gray{
+    background-color: gray;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+#white{
+    background-color: #414141;
+}
+#black{
+    background-color: #212121;
+}

@@ -1,0 +1,1 @@
+super(Uname,age,email,pass)
